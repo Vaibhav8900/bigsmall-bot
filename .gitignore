@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+bigsmall_data.json
+stats.json
+*.xlsx
+.env
