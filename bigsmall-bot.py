@@ -1,6 +1,7 @@
 import logging
 import json
 import os
+BOT_TOKEN = os.getenv('8547761539:AAG-4WYMBmlYw8YdWgDMVaBOhfJEUehRfsU') 
 import pandas as pd
 from datetime import datetime
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
