@@ -1,2 +1,2 @@
 
-web: python bigsmall_bot.py
+web: python main.py
